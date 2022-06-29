@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there!
 
-<!--
-**kskrheh/kskrheh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Konstantin and I am a Frontend developer.
+Telegram - https://t.me/kskrheh
+<hr>
+My stack:
+Javascript, React, Redux, nodejs, Express, sequelize ORM, Postgres
+<hr>
+Frontend: Javascript, React, Hooks API, Redux-Thunk, Redux Toolkit, HTML5, CSS3, Sass
+Backend: Node.js, Express, Sessions/Tokens/Cookies, CORS, WebSocket
+DB: Postgres, sequelize ORM
+More: Jest, Docker, REST, Postman, Beekeeper
