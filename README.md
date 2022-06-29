@@ -6,7 +6,7 @@ Telegram - https://t.me/kskrheh
 My stack:
 Javascript, React, Redux, nodejs, Express, sequelize ORM, Postgres
 <hr>
-Frontend: Javascript, React, Hooks API, Redux-Thunk, Redux Toolkit, HTML5, CSS3, Sass
-Backend: Node.js, Express, Sessions/Tokens/Cookies, CORS, WebSocket
-DB: Postgres, sequelize ORM
+Frontend: Javascript, React, Hooks API, Redux-Thunk, Redux Toolkit, HTML5, CSS3, Sass <br>
+Backend: Node.js, Express, Sessions/Tokens/Cookies, CORS, WebSocket <br>
+DB: Postgres, sequelize ORM <br>
 More: Jest, Docker, REST, Postman, Beekeeper
